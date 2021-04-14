@@ -8,3 +8,11 @@
   - Board: Seeeduino Wio Terminal
   - Library: https://github.com/Seeed-Studio/Seeed_Arduino_MLX9064x
   - Example: https://github.com/m5stack/M5Stack/tree/master/examples/Unit/THERMAL_MLX90640
+
+## Memo
+
+- Button A: Point to highest temperature  
+- Button B: Point to screen center
+- Button C: Point to lowest temperature 
+- 5way Up: EMS +0.1
+- 5way Down: EMS -0.1
